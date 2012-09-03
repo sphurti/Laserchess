@@ -7,9 +7,9 @@ Beta serial algorithm is implemented. This algorithm is further parallelized usi
 OpenMPI. 
 
 In Laser Chess, each player may make two moves per turn. They are:
-• A piece can be moved in any direction.
-• The Laser piece can be fired only once per turn.
-• A piece can be rotated if it is rotatable in either clockwise or anti-clockwise direction.
+1. A piece can be moved in any direction.
+2. The Laser piece can be fired only once per turn.
+3. A piece can be rotated if it is rotatable in either clockwise or anti-clockwise direction.
 In this game, it is required to decide the best move among various possible moves
 from the current board position. To obtain such best moves, the Game Tree is traversed using
 Game Tree Search Algorithms i.e serial Alpha-

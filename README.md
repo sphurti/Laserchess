@@ -18,7 +18,6 @@ tree affects the evaluation time of the search tree to obtain the best move.
 
 Running the laserchess:
 ======================
-Perform the following to run the laser chess:
 1. Download the tar file( laser chess.tar.gz ) that contains various header files and c++
 files.
 2. Unzip the tar file using the command $ tar -xvf laserchess.tar.gz
@@ -40,7 +39,7 @@ only once, the king can capture once per turn and a block can capture once per t
 3. The user cannot give the fire command.
 
 Author:
-
+=======
 Sphurti
 
 
